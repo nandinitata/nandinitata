@@ -1,21 +1,24 @@
-### Hi there 👋
-
 # Welcome to My GitHub Repository! 👋
 
-Thanks for visiting my repository. Feel free to explore and interact with the content.
+## Introduction 📚
 
-Click the button below to receive a warm greeting:
+I'm an IT Professional with 1.1 years of experience as an Intern in the Python and Data Science domain. I specialize in Statistical Analysis, Exploratory Data Analysis, Data Visualization, Data Extraction (Web Scraping, Web APIs), Data Wrangling, Image Processing, Text Processing, and the creation of Machine Learning and Deep Learning models. 
 
-[![Say Hello](https://img.shields.io/badge/Say%20Hello-Click%20Here-blue)](#say-hello)
+In addition to my technical expertise, I also possess strong communication skills. 💻📊📈🤝
 
-## Say Hello
+## Skillset 🚀
 
-When you click the "Say Hello" button, it will display a friendly greeting message.
+- Computer Languages: Python, C++, C
+- IDEs:               Spyder, PyCharm, VS Code, Sublime, Eclipse
+- Python Libraries:   Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, OpenCV, etc.
+- Tools:              Power BI, Tableau, UiPath, Jupyter Notebook, Mito, Matlab, LaTeX
+- Machine Learning:   XGBoost, CatBoost, Random Forest, Logistic Regression, etc.
+- Deep Learning:      CNN, RNN, NLP, and Computer Vision
+- Frameworks:         TensorFlow, Keras, and PyTorch
+- Database:           MySQL
 
-<details>
-<summary>Click to reveal the greeting message</summary>
 
-Hello there! Thanks for visiting my repository. 🎉
+Feel free to explore my repository 🚀🔬📊
 
-</details>
+
 
