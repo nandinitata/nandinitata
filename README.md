@@ -7,11 +7,8 @@
 ### 🎯 Data Science Masters Student | Teaching Assistant | Quantum Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatasainandini/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandinitata)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.tata@colorado.edu)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge)](https://github.com/nandinitata)
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150">
 
@@ -156,11 +153,9 @@ while True:
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nandinitata&show_icons=true&theme=radical)](https://github.com/nandinitata)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakNum=70a5fd&currStreakLabel=bf91f3&sideNums=70a5fd&sideLabels=bf91f3&dates=38bdae)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandinitata&layout=compact&theme=radical)](https://github.com/nandinitata)
 
 </div>
 
