@@ -1,10 +1,8 @@
 <div align="center">
   
-# ♔ Welcome to My Kingdom of Code ♚ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# ♔ Welcome! ♚ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Science+Grandmaster+♟️;Teaching+Assistant+@+CU+Boulder;Quantum+Computing+Explorer+⚛️;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
-
-### 🎯 Data Science Masters Student | Teaching Assistant | Quantum Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatasainandini/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.tata@colorado.edu)
@@ -16,17 +14,16 @@
 
 ---
 
-## ♟️ Opening Moves - About Me
+## ♟️ About Me
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
 > 👑 **"In the game of data, every move counts!"**
 
 - ♔ **Current Position:** Masters in Data Science @ **University of Colorado Boulder**
-- ♕ **Role:** Teaching Assistant - *Guiding the next generation of data knights*
+- ♕ **Role:** Teaching Assistant 
 - ♗ **New Quest:** Exploring the quantum realm of computing ⚛️
 - ♘ **Experience:** 1.1+ years in Python & Data Science domain
-- ♖ **Strategy:** Turning data into insights, one analysis at a time
 - ♙ **Mission:** Checkmate complex problems with elegant solutions
 
 ### 🎯 Current Game Plan:
