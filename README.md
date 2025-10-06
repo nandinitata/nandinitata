@@ -84,21 +84,21 @@ while True:
 <td width="50%">
 
 ### 📊 Data Science Mastery
-- ✅ **Statistical Analysis** - *Knight's Fork*
-- ✅ **Exploratory Data Analysis** - *Opening Theory*
-- ✅ **Data Visualization** - *Board Vision*
-- ✅ **Data Wrangling** - *Piece Coordination*
-- ✅ **Feature Engineering** - *Positional Play*
+- ✅ **Statistical Analysis** 
+- ✅ **Exploratory Data Analysis**
+- ✅ **Data Visualization** 
+- ✅ **Data Wrangling** 
+- ✅ **Feature Engineering** 
 
 </td>
 <td width="50%">
 
 ### 🤖 ML/DL Tactics
-- ✅ **Supervised Learning** - *Calculated Attacks*
-- ✅ **XGBoost & CatBoost** - *Power Pieces*
-- ✅ **Neural Networks** - *Deep Strategy*
-- ✅ **Computer Vision** - *Pattern Recognition*
-- ✅ **NLP** - *Communication Gambits*
+- ✅ **Supervised Learning** 
+- ✅ **XGBoost & CatBoost**
+- ✅ **Neural Networks** 
+- ✅ **Computer Vision**
+- ✅ **NLP** 
 
 </td>
 </tr>
@@ -106,20 +106,20 @@ while True:
 <td width="50%">
 
 ### ⚛️ Quantum Computing (New Territory!)
-- 🎯 **Quantum Algorithms** - *Learning the Rules*
-- 🎯 **Qiskit Framework** - *New Arsenal*
-- 🎯 **Quantum ML** - *Future Endgame*
-- 🎯 **Research Applications** - *Exploring Possibilities*
+- 🎯 **Quantum Algorithms** 
+- 🎯 **Qiskit Framework** 
+- 🎯 **Quantum ML** 
+- 🎯 **Research Applications** 
 
 </td>
 <td width="50%">
 
 ### 🕸️ Data Extraction & Processing
-- ✅ **Web Scraping** - *Intelligence Gathering*
-- ✅ **API Integration** - *Allied Forces*
-- ✅ **Image Processing** - *Visual Analysis*
-- ✅ **Text Processing** - *Decoding Messages*
-- ✅ **ETL Pipelines** - *Supply Lines*
+- ✅ **Web Scraping** 
+- ✅ **API Integration**
+- ✅ **Image Processing** 
+- ✅ **Text Processing** 
+- ✅ **ETL Pipelines** 
 
 </td>
 </tr>
@@ -143,18 +143,6 @@ while True:
 - 📈 Created interactive dashboards using Power BI and Tableau
 - 🤖 Implemented deep learning models for computer vision tasks
 - 🕸️ Built automated data extraction pipelines
-
----
-
-## 📊 GitHub Chess Board
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nandinitata&show_icons=true&theme=radical)](https://github.com/nandinitata)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandinitata&layout=compact&theme=radical)](https://github.com/nandinitata)
-
-</div>
 
 ---
 
