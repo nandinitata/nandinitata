@@ -169,9 +169,9 @@ while True:
 ## 📚 Academic Achievements
 
 - 🏆 **Masters in Data Science** - University of Colorado Boulder *(In Progress)*
-- 🥇 **[Previous Degree]** - [Anna University]
+- 🥇 **Bachelor's in Electronics** - [Anna University]
 - 📜 **Certifications:**
-  - 🎯 [Add your certifications here]
+  - 🎯 [A]
   - 🎯 [Machine Learning Specialization]
   - 🎯 [Deep Learning Certification]
 
