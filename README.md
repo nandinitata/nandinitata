@@ -2,7 +2,7 @@
   
 # ♔ Welcome! ♚ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Science+Grandmaster+♟️;Teaching+Assistant+@+CU+Boulder;Quantum+Computing+Explorer+⚛️;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Kaggle+Master+♟️;Teaching+Assistant+@+CU+Boulder;Quantum+Computing+Explorer+⚛️;IEEE+Published+Researcher+📚;Generative+AI+%26+RAG+Expert+🤖;Building+AI+That+Actually+Works!" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatasainandini/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.tata@colorado.edu)
