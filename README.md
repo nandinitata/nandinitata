@@ -129,7 +129,7 @@ I'm always excited to collaborate on:
 - 📊 Open Source AI Projects
 - 🎓 Teaching & Mentoring
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://my-digital-showcase-533.lovable.app/))
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-digital-showcase-533.lovable.app/)
 
 </div>
 
