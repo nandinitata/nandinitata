@@ -21,11 +21,8 @@
 > 👑 **"In the game of data, every move counts!"**
 
 - ♔ **Current Position:** Masters in Data Science @ **University of Colorado Boulder**
-- ♕ **Role:** Teaching Assistant 
 - ♗ **New Quest:** Exploring the quantum realm of computing ⚛️
-- ♘ **Experience:** 1.1+ years building production ML systems
 - ♙ **Specialty:** Generative AI, RAG Systems, Agentic Workflows
-- ♖ **Mission:** Checkmate complex problems with elegant solutions
 - ♘ **Published:** IEEE Research on ML-Powered Classification and Object Detection
 
 ### 🎯 Current Game Plan:
