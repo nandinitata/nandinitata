@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:b06ab3&height=200&section=header&text=Sai%20Nandini%20Tata&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20GenAI%20%26%20ML%20Engineer&descSize=18&descAlignY=58" width="100%"/>
+# ♞ Sai Nandini Tata
+
+### Data Scientist · GenAI & ML Engineer
 
 <a href="https://www.linkedin.com/in/sainandinitata/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sainandini-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:sainandinitata4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=nandinitata&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8A6DE9&center=true&vCenter=true&width=560&lines=Data+Science+Intern+%40+Ricoh+USA;GenAI+%C2%B7+RAG+%C2%B7+Agentic+AI+Engineer;Machine+Learning+Engineer;4x+Hackathon+Winner+%F0%9F%8F%86;IEEE+Published+Researcher+%F0%9F%93%9A;Kaggle+Master+%E2%99%9F%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8A6DE9&center=true&vCenter=true&width=560&lines=Data+ScieGenAI+%C2%B7+RAG+%C2%B7+Agentic+AI+Engineer;Machine+Learning+Engineer;4x+Hackathon+Winner+%F0%9F%8F%86;IEEE+Published+Researcher+%F0%9F%93%9A;Kaggle+Master+%E2
+%99%9F%EF%B8%8F" alt="Typing SVG"/>
 
 </div>
 
@@ -15,12 +18,11 @@
 
 ## ♞ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
-
-- 🎓 **MS in Data Science**, University of Colorado Boulder - **4.0 GPA**
+- 🎓 **MS in Data Science**, University of CPA**
 - 🔬 Data Scientist working across **GenAI, RAG, Agentic AI, multimodal & edge ML**
-- 🛠️ I like building things that actually ship, not just notebooks
+- 🛠️ I like building things that actually sh
 - ♟️ Off the clock: chess, and treating every hard problem like an endgame
+- 📍 Based in Milpitas, CA · open to relocat
 
 ---
 
@@ -92,11 +94,12 @@
 
 <div align="center">
 
-`♟️ Kaggle Master` &nbsp; `🏆 4x Hackathon Winner` &nbsp; `📚 IEEE Published Researcher` &nbsp; `🎓 4.0 GPA` &nbsp; `👩‍🏫 Graduate TA`
+`♟️ Kaggle Master` &nbsp; `🏆 4x Hackathon Winner` &nbsp; `📚 IEEE Published Researcher` &nbsp; `🎓 4.0 GPA`&nbsp; `👩‍🏫 Graduate TA`
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Analytics
 
@@ -112,13 +115,10 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/nandinitata/nandinitata/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 ---
 
 <div align="center">
 
 *"The best move is the one you calculate, not the one you hope for."* ♟️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b06ab3,50:2a5298,100:1a2a6c&height=110&section=footer&animation=twinkling"/>
 
 </div>
