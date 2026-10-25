@@ -9,7 +9,7 @@
 <a href="mailto:sainandinitata4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=nandinitata&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8A6DE9&center=true&vCenter=true&width=600&lines=Data+Science+Intern+%40+Ricoh+USA;GenAI+%C2%B7+RAG+%C2%B7+Agentic+AI+Engineer;Machine+Learning+Engineer;Exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;4x+Hackathon+Winner+%F0%9F%8F%86;IEEE+Published+Researcher+%F0%9F%93%9A;Kaggle+Master+%E2%99%9F%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8A6DE9&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+TIFIN+AI%2C+Boulder;GenAI+%C2%B7+RAG+%C2%B7+Agentic+AI+Engineer;Machine+Learning+Engineer;Exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;4x+Hackathon+Winner+%F0%9F%8F%86;IEEE+Published+Researcher+%F0%9F%93%9A;Kaggle+Master+%E2%99%9F%EF%B8%8F" alt="Typing SVG"/>
 
 </div>
 
@@ -18,6 +18,7 @@
 ## ♞ About Me
 
 - 🎓 **MS in Data Science**, University of Colorado Boulder - **4.0 GPA**
+- 🚀 Joining **TIFIN AI** in Boulder, CO as a Data Scientist starting **November 2026**
 - 🔬 Data Scientist working across **GenAI, RAG, Agentic AI, multimodal & edge ML**
 - 🛠️ I like building things that actually ship, not just notebooks
 - ♟️ Off the clock: chess, and treating every hard problem like an endgame
@@ -29,6 +30,7 @@
 
 | Role | Company |
 |------|---------|
+| Data Scientist *(starting Nov 2026)* | **TIFIN AI**, Boulder |
 | Data Science Intern | **Ricoh USA** |
 | Graduate Teaching Assistant, Data Visualization | **University of Colorado Boulder** |
 | Data Analyst Intern | **Laboratory for Atmospheric & Space Physics (LASP)** |
